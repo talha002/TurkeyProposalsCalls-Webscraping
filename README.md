@@ -12,12 +12,12 @@ In **third step** (third code cell) I collect data from **"https://hibeler.ab.go
 
 In **fourth and fifth step** (fourth and fifth cell) I make a dataframe from collected data and tranform it to an excel table.
 
-In excel table there is four column header which are named as "Kurum Adı", "Program Adı", "Çağrı Durumu", "Son Başvuru Tarihi".
+In excel table there is four column header which are named as "Kurum Adı", "Program Adı", "Çağrı Durumu", "Son Başvuru Tarihi":
 
-**"Program adı"** means name of the project program call
+- **"Program adı"** means name of the project program call
 
-**"Kurum adı"** means name of instution which opening the call.
+- **"Kurum adı"** means name of instution which opening the call.
 
-**"Çağrı Durumu"** means statute of the call, whether is it active (open) or closed.
+- **"Çağrı Durumu"** means statute of the call, whether is it active (open) or closed.
 
-**"Son Başvuru Tarihi"** means deadline for apply to the call.
+- **"Son Başvuru Tarihi"** means deadline for apply to the call.
