@@ -4,9 +4,9 @@ Hello every one,
 
 I built this algorithm to collect data of project proposal calls In Turkey. It is a simple webscarping algorithm. 
 
-In **first step** (first code cell) I collect data from **"yatirimadestek.gov.tr"**. This website has a general table which includes national project propsal calls from various instutions.
+In **first step** (first code cell) I collect data from **"https://yatirimadestek.gov.tr"**. This website has a general table which includes national project propsal calls from various instutions.
 
-In **second step** (second code cell) I collect data from **"uidb-pbs.tubitak.gov.tr"** this web site includes TUBITAK's international projecect proposal calls.
+In **second step** (second code cell) I collect data from **"https://uidb-pbs.tubitak.gov.tr"** this web site includes TUBITAK's international projecect proposal calls.
 
 In **third step** (third code cell) I collect data from **"https://hibeler.ab.gov.tr"** and this website includes EU's international project proposal calls.
 
