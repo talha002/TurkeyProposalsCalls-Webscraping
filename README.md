@@ -14,7 +14,7 @@ In **fourth and fifth step** (fourth and fifth cell) I make a dataframe from col
 
 In excel table there is four column header which are named as "Kurum Adı", "Program Adı", "Çağrı Durumu", "Son Başvuru Tarihi":
 
-- **"Program adı"** means name of the project program call
+- **"Program adı"** means name of the project proposal call
 
 - **"Kurum adı"** means name of instution which opening the call.
 
